@@ -1,0 +1,15 @@
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\appsettings.json
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.deps.json
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.json
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.runtimeconfig.dev.json
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.dll
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\bin\Debug\netcoreapp2.1\EchoBot.pdb
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.csprojAssemblyReference.cache
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.csproj.CoreCompileInputs.cache
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cache
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorAssemblyInfo.cs
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfoInputs.cache
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.AssemblyInfo.cs
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.RazorTargetAssemblyInfo.cache
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.dll
+D:\myJsBots\BotBuilder-Samples\samples\csharp_dotnetcore\02.echo-bot\obj\Debug\netcoreapp2.1\EchoBot.pdb
